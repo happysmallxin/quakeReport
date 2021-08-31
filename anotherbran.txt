@@ -1,1 +1,7 @@
-public  class  AnotherBranch{}
+public  class  AnotherBranch{
+   public  static void main(String args){
+ 
+  
+}
+
+}
